@@ -1,0 +1,166 @@
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\roslyn\csc.exe
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\roslyn\Microsoft.CSharp.Core.targets
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\roslyn\System.Collections.Immutable.dll
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\roslyn\System.Reflection.Metadata.dll
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\roslyn\vbc.exe
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\roslyn\VBCSCompiler.exe
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\roslyn\VBCSCompiler.exe.config
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Tamland_API.dll.config
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Tamland_API.dll
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Tamland_API.pdb
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Microsoft.AspNet.Identity.Core.dll
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Microsoft.AspNet.SignalR.Core.dll
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Microsoft.Owin.Cors.dll
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Microsoft.Owin.dll
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Microsoft.Owin.Security.Cookies.dll
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Microsoft.Owin.Security.dll
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Microsoft.Owin.Security.OAuth.dll
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Newtonsoft.Json.dll
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Owin.dll
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\System.Web.Cors.dll
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\System.Web.Http.WebHost.dll
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Microsoft.AspNet.Identity.Core.xml
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Microsoft.AspNet.SignalR.Core.pdb
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Microsoft.AspNet.SignalR.Core.xml
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Microsoft.Owin.xml
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Microsoft.Owin.Cors.xml
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Microsoft.Owin.Security.xml
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Microsoft.Owin.Security.Cookies.xml
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Microsoft.Owin.Security.OAuth.xml
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\Newtonsoft.Json.xml
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\System.Net.Http.Formatting.xml
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\System.Web.Http.xml
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\System.Web.Http.WebHost.xml
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\obj\Debug\Tamland_API.csprojAssemblyReference.cache
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\obj\Debug\Tamland_API.csproj.CoreCompileInputs.cache
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\obj\Debug\Tamland_API.csproj.CopyComplete
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\obj\Debug\Tamland_API.dll
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\obj\Debug\Tamland_API.pdb
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\System.Web.Http.Owin.xml
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\SmsIrRestful.dll
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\SmsIrRestful.pdb
+J:\workspace\asp\New folder\Tamland_backend\Tamland_API\bin\System.Web.Http.dll
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\roslyn\csc.exe
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\roslyn\System.Collections.Immutable.dll
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\roslyn\System.Reflection.Metadata.dll
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\roslyn\vbc.exe
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\roslyn\VBCSCompiler.exe
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\roslyn\VBCSCompiler.exe.config
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Tamland_API.dll.config
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Tamland_API.dll
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Tamland_API.pdb
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Microsoft.AspNet.Identity.Core.dll
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Microsoft.Owin.Cors.dll
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Microsoft.Owin.dll
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Microsoft.Owin.Security.Cookies.dll
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Microsoft.Owin.Security.dll
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Microsoft.Owin.Security.OAuth.dll
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Newtonsoft.Json.dll
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Owin.dll
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\SmsIrRestful.dll
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\System.Web.Cors.dll
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\System.Web.Http.dll
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\System.Web.Http.WebHost.dll
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Microsoft.AspNet.Identity.Core.xml
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Microsoft.AspNet.SignalR.Core.pdb
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Microsoft.AspNet.SignalR.Core.xml
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Microsoft.Owin.xml
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Microsoft.Owin.Cors.xml
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Microsoft.Owin.Security.xml
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Microsoft.Owin.Security.Cookies.xml
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Microsoft.Owin.Security.OAuth.xml
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\SmsIrRestful.pdb
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\System.Web.Http.xml
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\System.Web.Http.Owin.xml
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\Newtonsoft.Json.xml
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\System.Net.Http.Formatting.xml
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\bin\System.Web.Http.WebHost.xml
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\obj\Debug\Tamland_API.csprojResolveAssemblyReference.cache
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\obj\Debug\Tamland_API.csproj.CoreCompileInputs.cache
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\obj\Debug\Tamland_API.dll
+E:\workSpace\jabiz\tom\Tamland_backend\Tamland_API\obj\Debug\Tamland_API.pdb
+D:\tfs\Tamland_API\Tamland_API\bin\roslyn\csc.exe
+D:\tfs\Tamland_API\Tamland_API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\tfs\Tamland_API\Tamland_API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\tfs\Tamland_API\Tamland_API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\tfs\Tamland_API\Tamland_API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\tfs\Tamland_API\Tamland_API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\tfs\Tamland_API\Tamland_API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\tfs\Tamland_API\Tamland_API\bin\roslyn\System.Collections.Immutable.dll
+D:\tfs\Tamland_API\Tamland_API\bin\roslyn\System.Reflection.Metadata.dll
+D:\tfs\Tamland_API\Tamland_API\bin\roslyn\vbc.exe
+D:\tfs\Tamland_API\Tamland_API\bin\roslyn\VBCSCompiler.exe
+D:\tfs\Tamland_API\Tamland_API\bin\roslyn\VBCSCompiler.exe.config
+D:\tfs\Tamland_API\Tamland_API\bin\Tamland_API.dll.config
+D:\tfs\Tamland_API\Tamland_API\bin\Tamland_API.dll
+D:\tfs\Tamland_API\Tamland_API\bin\Tamland_API.pdb
+D:\tfs\Tamland_API\Tamland_API\bin\Microsoft.AspNet.Identity.Core.dll
+D:\tfs\Tamland_API\Tamland_API\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\tfs\Tamland_API\Tamland_API\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\tfs\Tamland_API\Tamland_API\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\tfs\Tamland_API\Tamland_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\tfs\Tamland_API\Tamland_API\bin\Microsoft.Owin.Cors.dll
+D:\tfs\Tamland_API\Tamland_API\bin\Microsoft.Owin.dll
+D:\tfs\Tamland_API\Tamland_API\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\tfs\Tamland_API\Tamland_API\bin\Microsoft.Owin.Security.Cookies.dll
+D:\tfs\Tamland_API\Tamland_API\bin\Microsoft.Owin.Security.dll
+D:\tfs\Tamland_API\Tamland_API\bin\Microsoft.Owin.Security.OAuth.dll
+D:\tfs\Tamland_API\Tamland_API\bin\Newtonsoft.Json.dll
+D:\tfs\Tamland_API\Tamland_API\bin\Owin.dll
+D:\tfs\Tamland_API\Tamland_API\bin\SmsIrRestful.dll
+D:\tfs\Tamland_API\Tamland_API\bin\System.Web.Cors.dll
+D:\tfs\Tamland_API\Tamland_API\bin\System.Web.Http.dll
+D:\tfs\Tamland_API\Tamland_API\bin\System.Web.Http.Owin.dll
+D:\tfs\Tamland_API\Tamland_API\bin\System.Web.Http.WebHost.dll
+D:\tfs\Tamland_API\Tamland_API\bin\Microsoft.AspNet.Identity.Core.xml
+D:\tfs\Tamland_API\Tamland_API\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\tfs\Tamland_API\Tamland_API\bin\Microsoft.AspNet.SignalR.Core.pdb
+D:\tfs\Tamland_API\Tamland_API\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\tfs\Tamland_API\Tamland_API\bin\Microsoft.AspNet.SignalR.SystemWeb.pdb
+D:\tfs\Tamland_API\Tamland_API\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\tfs\Tamland_API\Tamland_API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\tfs\Tamland_API\Tamland_API\bin\Microsoft.Owin.xml
+D:\tfs\Tamland_API\Tamland_API\bin\Microsoft.Owin.Cors.xml
+D:\tfs\Tamland_API\Tamland_API\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\tfs\Tamland_API\Tamland_API\bin\Microsoft.Owin.Security.xml
+D:\tfs\Tamland_API\Tamland_API\bin\Microsoft.Owin.Security.Cookies.xml
+D:\tfs\Tamland_API\Tamland_API\bin\Microsoft.Owin.Security.OAuth.xml
+D:\tfs\Tamland_API\Tamland_API\bin\SmsIrRestful.pdb
+D:\tfs\Tamland_API\Tamland_API\bin\System.Web.Http.xml
+D:\tfs\Tamland_API\Tamland_API\bin\System.Web.Http.Owin.xml
+D:\tfs\Tamland_API\Tamland_API\bin\Newtonsoft.Json.xml
+D:\tfs\Tamland_API\Tamland_API\bin\System.Net.Http.Formatting.xml
+D:\tfs\Tamland_API\Tamland_API\bin\System.Web.Http.WebHost.xml
+D:\tfs\Tamland_API\Tamland_API\obj\Debug\Tamland_API.csprojResolveAssemblyReference.cache
+D:\tfs\Tamland_API\Tamland_API\obj\Debug\Tamland_API.dll
+D:\tfs\Tamland_API\Tamland_API\obj\Debug\Tamland_API.pdb
